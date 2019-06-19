@@ -9,3 +9,6 @@ This is a dummy project as data is being stored in a array list as objects. No A
 - Clone this repository to your local machine
 - Install dependencies `npm install`
 - Start the application `npm start` The magic happens on port `3000`
+
+![](exp2.png)
+![](exp1.png)
